@@ -8,4 +8,5 @@
 - add, commit changes
   - `git add . `
 - connect remote respository
-- `git remote add origin https://github.com/satuhalinen/GH.git
+- `git remote add origin https://github.com/satuhalinen/GH.git`
+  cool stuff
