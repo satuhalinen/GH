@@ -1,4 +1,4 @@
-# Playground project
+# Gitting project
 
 - First I do new GH
 - create local folder
