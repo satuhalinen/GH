@@ -10,3 +10,4 @@
 - connect remote respository
 - `git remote add origin https://github.com/satuhalinen/GH.git`
   cool stuff
+  added Thursday text
